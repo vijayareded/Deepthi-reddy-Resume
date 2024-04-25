@@ -1,2 +1,2 @@
 # Deepthi-reddy-Resume
-Consists A Resume .
+Consists Resume,Transcripts and Work experience Certificate.
